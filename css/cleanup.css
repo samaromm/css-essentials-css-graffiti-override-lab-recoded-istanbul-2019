@@ -11,7 +11,7 @@
   display: none;
 }
 
-#wall div {
+#wall div : first-of-type{
   display: none;
 }
 
